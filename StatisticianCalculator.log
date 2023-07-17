@@ -1,0 +1,11 @@
+﻿  StatisticianCalculator.cpp
+E:\Projects\StatisticianCalculator\StatisticianCalculator.cpp(37,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\Projects\StatisticianCalculator\StatisticianCalculator.cpp(39,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\Projects\StatisticianCalculator\StatisticianCalculator.cpp(46,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\Projects\StatisticianCalculator\StatisticianCalculator.cpp(58,25): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\Projects\StatisticianCalculator\StatisticianCalculator.cpp(65,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\Projects\StatisticianCalculator\StatisticianCalculator.cpp(74,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\Projects\StatisticianCalculator\StatisticianCalculator.cpp(77,9): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+E:\Projects\StatisticianCalculator\StatisticianCalculator.cpp(149,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\Projects\StatisticianCalculator\StatisticianCalculator.cpp(165,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  StatisticianCalculator.vcxproj -> E:\Projects\StatisticianCalculator\Debug\StatisticianCalculator.exe
